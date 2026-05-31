@@ -15,8 +15,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericyoc/the_applied_ai_universe_coding_guide/blob/main/Applied_AI_Universe_Coding_Guide_Hybrid_Quantum.ipynb)
 [![View on nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/ericyoc/the_applied_ai_universe_coding_guide/blob/main/Applied_AI_Universe_Coding_Guide_Hybrid_Quantum.ipynb)
 
-[![Open Classical Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericyoc/the_applied_ai_universe_coding_guide/blob/main/Applied_AI_Universe_Coding_Guide_Classical.ipynb)
-[![Open Quantum Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericyoc/the_applied_ai_universe_coding_guide/blob/main/Quantum_Hybrid_AI_Universe_v3.ipynb)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org/)
 [![PennyLane](https://img.shields.io/badge/PennyLane-quantum-blueviolet.svg)](https://pennylane.ai/)
