@@ -17,13 +17,6 @@
 
 ---
 
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org/)
-[![PennyLane](https://img.shields.io/badge/PennyLane-quantum-blueviolet.svg)](https://pennylane.ai/)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-models-yellow.svg)](https://huggingface.co/)
-
----
-
 <p align="center">
   <img src="ai_universe_rev2.png" alt="The AI Universe Coding Guide" width="600"/>
 </p>
@@ -31,6 +24,13 @@
 <p align="center">
   <em>The AI Universe -- seven concentric rings spanning every major sub-field of Artificial Intelligence through Quantum AI</em>
 </p>
+
+---
+
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://tensorflow.org/)
+[![PennyLane](https://img.shields.io/badge/PennyLane-quantum-blueviolet.svg)](https://pennylane.ai/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-models-yellow.svg)](https://huggingface.co/)
 
 ---
 
