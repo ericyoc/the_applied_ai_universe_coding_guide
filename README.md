@@ -1,6 +1,8 @@
 # The Applied AI Universe Coding Guide
 ### *From Neural Networks to Quantum AI*
 
+---
+
 ## Interactive Notebooks
 
 > GitHub may time out rendering large notebooks. Use the Colab badges to open and run them directly, or view them via nbviewer below.
